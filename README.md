@@ -38,4 +38,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify any part of the description to better fit your style or the specifics of your project!
